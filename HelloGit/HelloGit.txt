@@ -1,2 +1,3 @@
 Hellow Git
 Fix bug1
+Fix bug3
